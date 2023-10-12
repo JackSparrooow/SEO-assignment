@@ -1,0 +1,11 @@
+SEO nothing but search engine optimization, set of stratergies like meta tags keywords etc are used to improve a website visibility in search engine result pages.
+
+benefits:- 1)security:- The meta tag content security policy to helps and protect crosssite scripting attacks.
+
+2) fevicon:- metatags for specifying the website fevicon helps in binding and recognize as the favicon is displayed in browser tabs.
+
+3)Social Media Sharing:- Meta tags Open Graph Protocol tags allow developers to control how web
+pages are displayed when shared on social media platforms like Facebook, Twitter, and LinkedIn.etc
+
+4)Viewport control:- The viewport meta tag is crucial for responsive web design
+
